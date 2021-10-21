@@ -344,7 +344,7 @@
     "_disableAccessibilityState": false,
     "title": "س4",
     "displayTitle": "",
-    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">الإدمان هو سيطرة المخدّر على الناحية الصحيّة والناحية النفسيّة&nbsp; فقط عند المدمن</span></strong></span></p>",
+    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">إن التنمر هو ظاهرة عدوانية تنطوي على ممارسة العنف</span></strong></span></p>",
     "_id": "616c0de7d477531f4c700665",
     "_parentId": "616c0de7d477531f4c700664",
     "_type": "component",
@@ -358,14 +358,14 @@
     "_items": [
       {
         "text": "صح ",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
         "text": "خطأ",
-        "_shouldBeSelected": true,
+        "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
@@ -448,7 +448,7 @@
     "_disableAccessibilityState": false,
     "title": "س5",
     "displayTitle": "",
-    "body": "<p dir=\"rtl\"><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF8C00\">السلوكيات والمهارات الشّخصيّة والاجتماعيّة، تسهم بفهم النفس والغير وتكوين علاقات إيجابية مع الآخرين والقدرة على التّفكير الابداعي</span></span></strong></p>",
+    "body": "<p dir=\"rtl\"><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF8C00\">إن الموقف المؤذي ممكن أن يقضي على الشخص نفسه وويغيّر من طبيعته</span></span></strong></p>",
     "_id": "616c1fcdd477531f4c70067d",
     "_parentId": "616c1fcdd477531f4c70067c",
     "_type": "component",
@@ -462,14 +462,14 @@
     "_items": [
       {
         "text": "صح ",
-        "_shouldBeSelected": true,
+        "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
         "text": "خطأ",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
@@ -552,7 +552,7 @@
     "_disableAccessibilityState": false,
     "title": "س6",
     "displayTitle": "",
-    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">من الممكن تجربة مواد غير قانونية، لمعرفة كيفيّة تفاعل الجسم معها</span></strong></span></p>",
+    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">لا يمكننا القضاء على تأثير موقف عدواني أو عنف على شخص</span></strong></span></p>",
     "_id": "616c2059d477531f4c700681",
     "_parentId": "616c2059d477531f4c700680",
     "_type": "component",
@@ -566,14 +566,14 @@
     "_items": [
       {
         "text": "صح ",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
         "text": "خطأ",
-        "_shouldBeSelected": true,
+        "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
@@ -656,7 +656,7 @@
     "_disableAccessibilityState": false,
     "title": "س7",
     "displayTitle": "",
-    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">&nbsp;بالإمكان أن يتحدى الشخص نفسه من خلال الرياضة أو التطوع في عمل اجتماعي خيري أو القيام بعمل إبداعي جديد.</span></strong></span></p>",
+    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">يؤثر تناول  الكحول في نمو الدماغ ووظائفه المختلفة</span></strong></span></p>",
     "_id": "616c209ed477531f4c700685",
     "_parentId": "616c209ed477531f4c700684",
     "_type": "component",
@@ -760,7 +760,7 @@
     "_disableAccessibilityState": false,
     "title": "س8",
     "displayTitle": "",
-    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">من السلوكيات عالية المخاطرهي قلة تقدير الشخص لذاته والشعور بالرفض الاجتماعي مما يجعله يلجأ الى مواد يعتقد أنها تؤمن له الشعور بالأمان</span></strong></span></p>",
+    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">الشعور بالقلق هو حالة صحية ويجب التعبير عنها والاستفادة منها</span></strong></span></p>",
     "_id": "616c21d3d477531f4c700689",
     "_parentId": "616c21d3d477531f4c700688",
     "_type": "component",
@@ -774,14 +774,14 @@
     "_items": [
       {
         "text": "صح ",
-        "_shouldBeSelected": true,
+        "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
         "text": "خطأ",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
@@ -864,7 +864,7 @@
     "_disableAccessibilityState": false,
     "title": "س9",
     "displayTitle": "",
-    "body": "<p dir=\"rtl\"><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF8C00\">إذا كان حول المتعلم أشخاص يستخدمون المواد المخدّرة، بإمكانه التدخل لمنعهم</span></span></strong></p>",
+    "body": "<p dir=\"rtl\"><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF8C00\">من الضروري أن تقوم المدرسة في تعزيز الممارسات والسلوكيات الصحية الصحيحة</span></span></strong></p>",
     "_id": "616c223dd477531f4c70068d",
     "_parentId": "616c223dd477531f4c70068c",
     "_type": "component",
@@ -878,14 +878,14 @@
     "_items": [
       {
         "text": "صح ",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
         "text": "خطأ",
-        "_shouldBeSelected": true,
+        "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
@@ -968,7 +968,7 @@
     "_disableAccessibilityState": false,
     "title": "س10",
     "displayTitle": "",
-    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">من دوافع التعاطي مشاكل عائلية، اقتصادية، تمرّد، فضول، ضغط الأقران... </span></strong></span></p>",
+    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">يلعب المجتمع دورًا فاعلًا في التوعية عبر حملات التوعية من قبل الوزارات المعنية كوزارة الإعلام</span></strong></span></p>",
     "_id": "616c22b9d477531f4c700691",
     "_parentId": "616c22b9d477531f4c700690",
     "_type": "component",
