@@ -18,7 +18,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "616bc6d21aea7228c481d075",
+    "_id": "616d25870b543e0168c8c418",
     "_type": "page",
     "_parentId": "course",
     "_graphic": {
@@ -35,9 +35,9 @@
     },
     "_vanilla": {
       "_backgroundImage": {
-        "_large": "course/en/assets/09f10754d1a9d9fabc9c8509660b4749d1216dec.jpg",
-        "_medium": "course/en/assets/09f10754d1a9d9fabc9c8509660b4749d1216dec.jpg",
-        "_small": "course/en/assets/09f10754d1a9d9fabc9c8509660b4749d1216dec.jpg"
+        "_large": "course/en/assets/7a0c0165ffb5974eedb58d0b713d19c594147ce8.jpg",
+        "_medium": "course/en/assets/7a0c0165ffb5974eedb58d0b713d19c594147ce8.jpg",
+        "_small": "course/en/assets/7a0c0165ffb5974eedb58d0b713d19c594147ce8.jpg"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": "no-repeat",
