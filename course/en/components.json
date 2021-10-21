@@ -24,28 +24,28 @@
     "instruction": "إختر الإجابة أو الإجابات المناسبة",
     "_items": [
       {
-        "text": "111مرض نقص المناعة",
+        "text": "مرض نقص المناعة",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "111أمراض القلب",
+        "text": "أمراض القلب",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "م111رض السرطان",
+        "text": "مرض السرطان",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "111أمراض الجهاز العصبي",
+        "text": "أمراض الجهاز العصبي",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
@@ -142,21 +142,21 @@
     "instruction": "إختر الإجابة أو الإجابات المناسبة",
     "_items": [
       {
-        "text": "1111العلاقات المتغيّرة مع أفراد الأسرة أو الأصدقاء",
+        "text": "العلاقات المتغيّرة مع أفراد الأسرة أو الأصدقاء",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "2222مضغ العلكة أو النعناع لتغطية النفس",
+        "text": "مضغ العلكة أو النعناع لتغطية النفس",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "\"2222حالة من الأرق أو الطاقة العالية، تليها فترات طويلة من النوم \"التعويضي\"",
+        "text": "\"حالة من الأرق أو الطاقة العالية، تليها فترات طويلة من النوم \"التعويضي\"",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
@@ -247,7 +247,7 @@
     "_disableAccessibilityState": false,
     "title": "س3",
     "displayTitle": "",
-    "body": "<p dir=\"rtl\"><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF8C00\">333المادة المنبّهة هي مادة :</span></span></strong></p>",
+    "body": "<p dir=\"rtl\"><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF8C00\">المادة المنبّهة هي مادة :</span></span></strong></p>",
     "_id": "616be846d477531f4c70065d",
     "_parentId": "616be846d477531f4c70065c",
     "_type": "component",
