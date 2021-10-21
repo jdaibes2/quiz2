@@ -1,6 +1,6 @@
 {
-  "_defaultLanguage": "ar",
-  "_defaultDirection": "rtl",
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
   "_fixes": {
     "_imgLazyLoad": true
   },
@@ -8,8 +8,8 @@
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
   "_disableAnimationFor": [],
-  "_id": "616d25870b543e0168c8c43a",
-  "_courseId": "616d25870b543e0168c8c417",
+  "_id": "616bc6a61aea7228c481d074",
+  "_courseId": "616bc6a61aea7228c481d073",
   "_drawer": {
     "_showEasing": "easeOutQuart",
     "_hideEasing": "easeInQuart",
