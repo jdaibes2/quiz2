@@ -448,7 +448,7 @@
     "_disableAccessibilityState": false,
     "title": "س5",
     "displayTitle": "",
-    "body": "<p dir=\"rtl\"><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF8C00\">إن الموقف المؤذي ممكن أن يقضي على الشخص نفسه وويغيّر من طبيعته</span></span></strong></p>",
+    "body": "<p dir=\"rtl\"><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF8C00\">إن الموقف المؤذي ممكن أن يقضي على الشخص نفسه ويغيّر من طبيعته</span></span></strong></p>",
     "_id": "616c1fcdd477531f4c70067d",
     "_parentId": "616c1fcdd477531f4c70067c",
     "_type": "component",
